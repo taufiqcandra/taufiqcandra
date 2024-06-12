@@ -1,6 +1,6 @@
 # 🖌️ Taufiq Candra
 
-** `Reader, Thinker` **
+`Reader` `Thinker`
 
 I'm a Tech Product Manager in Indonesia. Currently, I'm learning how to code. I have a passion for working with data, including tasks like data cleaning, data visualization, and creating dashboards. It's super cool to uncover insights from data! Right now, I'm diving deeper into data science by picking up programming languages. I really dig SQL and Python, especially when I'm tackling tough problems and figuring them out on my own.
 
