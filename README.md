@@ -5,5 +5,5 @@ I'm a Tech Product Manager in Indonesia. Currently, I'm learning how to code. I 
 - 🌱 I’m currently learning Python and SQL.
 - 🔭 I’m currently working on improving my skills in data analytical tools such as Excel, PowerBI, and Tableau.
 - 😀 In my free time, I enjoy reading and calculating Fibonacci series.
-- ⚡ Fun fact: I've completed 20 out of 24 books for this year's reading challenge (83% completion).
+- ⚡ Fun fact: I've completed 33 out of 24 books for this year's reading challenge (138% completion).
 
